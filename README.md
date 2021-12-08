@@ -15,3 +15,5 @@ https://leirbag.tistory.com/88?category=936583
 DB는 마리아 디비를 사용중이고
 
 비밀번호는 NewSt@rt!70 입니다.
+
+Tomcat의 Context Path는 비워주셔야 정상 작동합니다.
